@@ -1,7 +1,7 @@
 # CV Веб-разработчик
 *от верстки до программирования*
 
-!()[https://raw.githubusercontent.com/denzakh/cv/master/Helsinki-400.jpg]
+![](https://raw.githubusercontent.com/denzakh/cv/master/Helsinki-400.jpg)
 
 Возраст: 35 лет
 
