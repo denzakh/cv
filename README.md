@@ -1,6 +1,8 @@
 # CV Веб-разработчик
 *от верстки до программирования*
 
+!()[https://github.com/denzakh/cv/helsinki-400.jpg]
+
 Возраст: 35 лет
 
 ## Краткое описание опыта работы:
@@ -35,10 +37,10 @@
 (mentatus)[https://denzakh.github.io/mentatus/] - система автоматизированного психиатрического осмотра (React, Redux).
 
 ## Образование:
-**Специальное:**
+**Специализированные курсы:**
 - 2018 **React.js**. Разработка веб-приложений. LoftShcool.
-- 2016 Курс по **TypeScript**. JavaScript.ru
-- 2016 Курс по **JavaScript**/DOM/интерфейсам. JavaScript.ru
+- 2016 **TypeScript**. JavaScript.ru
+- 2016 **JavaScript**/DOM/интерфейсам. JavaScript.ru
 - 2016 **Frontend-разработка**: продвинутый интенсив (HTML и CSS). HtmlAcademy.
 - 2016 **Frontend-разработка**: базовый интенсив (HTML и CSS). HtmlAcademy.
 - 2015 **Python** (начальный курс). CodeAcademy.
