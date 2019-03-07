@@ -34,15 +34,15 @@
 - **СПБ НИПНИ им. В.М. Бехтерева: научный сотрудник** (2009-2015) - создание баз данных, статистический анализ (SPSS), разработка приложений (MS Access)
 
 ## Сторонние проекты
-(mentatus)[https://denzakh.github.io/mentatus/] - система автоматизированного психиатрического осмотра (React, Redux).
+[Mentatus](https://denzakh.github.io/mentatus/) - система автоматизированного психиатрического осмотра (React, Redux).
 
 ## Образование:
 **Специализированные курсы:**
-- 2018 (**React.js**)[/certificates/react2018loftschool-w.jpg]. Разработка веб-приложений. LoftShcool.
-- 2016 (**TypeScript**)[/certificates/JavaScript-TypeScript-certificate-w.jpg]. JavaScript.ru
-- 2016 (**JavaScript**)[/certificates/JavaScript-DOM-certificate-w.jpg]/DOM/интерфейсам. JavaScript.ru
-- 2016 (**Frontend-разработка**)[/certificates/HTMLAcademy-171944-Advanced-HTML-CSS-ru.jpg]: продвинутый интенсив (HTML и CSS). HtmlAcademy.
-- 2016 (**Frontend-разработка**)[/certificates/HTMLAcademy-171944-Basic-HTML-CSS-ru.jpg]: базовый интенсив (HTML и CSS). HtmlAcademy.
+- 2018 [**React.js**](/certificates/react2018loftschool-w.jpg). Разработка веб-приложений. LoftShcool.
+- 2016 [**TypeScript**](/certificates/JavaScript-TypeScript-certificate-w.jpg). JavaScript.ru
+- 2016 [**JavaScript**](/certificates/JavaScript-DOM-certificate-w.jpg)/DOM/интерфейсам. JavaScript.ru
+- 2016 [**Frontend-разработка**](/certificates/HTMLAcademy-171944-Advanced-HTML-CSS-ru.jpg): продвинутый интенсив (HTML и CSS). HtmlAcademy.
+- 2016 [**Frontend-разработка**](/certificates/HTMLAcademy-171944-Basic-HTML-CSS-ru.jpg): базовый интенсив (HTML и CSS). HtmlAcademy.
 - 2015 **Python** (начальный курс). CodeAcademy.
 
 **Общее**
